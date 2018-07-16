@@ -1,4 +1,4 @@
-amazon_transaction 
-def initialization
+ def amazon_transaction 
+
   
  
