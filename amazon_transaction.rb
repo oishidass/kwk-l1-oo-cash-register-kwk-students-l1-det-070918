@@ -11,6 +11,7 @@ cost = gets.chomp
   price << cost
   
 puts "Are you an Amazon employee?"
+answer = gets.chomp
   if answer = yes
     price.each do |discount|
       discount = price - (price*0.20) 
