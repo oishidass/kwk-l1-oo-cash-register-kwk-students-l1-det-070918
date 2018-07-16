@@ -7,8 +7,8 @@ sleep (1)
 puts "so what would you like to buy and how much does it cost?"
 item = gets.chomp 
 price = gets.chomp
-  items << {#item}
-  price << {#price}
+  items << item
+  price << price
   puts items
   puts price
 
