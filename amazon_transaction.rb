@@ -1,1 +1,1 @@
-amazon_prime
+amazon_prim
