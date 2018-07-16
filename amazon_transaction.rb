@@ -1,4 +1,7 @@
-class amazon_transaction 
+class AmazonTransaction
+  
+  AmazonTransaction.new 
+  
 
   
  
