@@ -15,7 +15,7 @@ answer = gets.chomp
   if answer = yes
     price.each do |discount|
       discount = price - (price*0.20) 
-  elsif answer = no
+  else 
     puts total
   end
 end
