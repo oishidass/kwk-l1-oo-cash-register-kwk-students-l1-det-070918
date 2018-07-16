@@ -1,14 +1,5 @@
-class AmazonTransaction
- end  
-  amazon_transaction AmazonTransaction.new 
+puts "hey welcome to amazon! feel free to buy whatever you like"
 
-
-amazon_transaction_with_discount
- AmazonTransaction.new
- 
- def initialize 
-   @total = 0 
-   amazon_transaction.new (amazon_transaction)
    
    
    
