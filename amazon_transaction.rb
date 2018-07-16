@@ -1,6 +1,7 @@
 class AmazonTransaction
   
-  AmazonTransaction.new 
+amazon_transaction  AmazonTransaction.new 
+end 
   
 
   
