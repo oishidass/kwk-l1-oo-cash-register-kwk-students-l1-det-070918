@@ -17,16 +17,4 @@ puts "Are you an Amazon employee?"
   else
     puts total
   end
-
-
-
-
-   
-   
-   
- 
-
-  
-
-  
- 
+end
