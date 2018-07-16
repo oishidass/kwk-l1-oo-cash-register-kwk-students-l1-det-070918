@@ -8,7 +8,8 @@ puts "so what would you like to buy and how much does it cost?"
 item, price = gets.chomp 
   items << {#item}
   price << {#price}
-puts "So you want to buy {#items} for {#price}."
+  puts items
+  puts price
 
 
 
