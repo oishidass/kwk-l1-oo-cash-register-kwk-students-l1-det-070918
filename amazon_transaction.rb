@@ -1,1 +1,1 @@
- amazon_prim do 
+ amazon_prime do 
