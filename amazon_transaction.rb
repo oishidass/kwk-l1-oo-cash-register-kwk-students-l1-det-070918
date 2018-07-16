@@ -13,7 +13,7 @@ cost = gets.chomp
 puts "Are you an Amazon employee?"
   if answer = yes
     price.each do |discount|
-      discount = price - (price*.20) 
+      discount = price - (price*0.20) 
   else
     puts total
   end
