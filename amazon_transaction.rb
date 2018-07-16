@@ -7,6 +7,8 @@ amazon_transaction_with_discount
  AmazonTransaction.new
  
  def initialize 
+   @ total = 0 
+   
    
  
 
