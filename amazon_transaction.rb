@@ -1,4 +1,4 @@
- def amazon_transaction 
+class amazon_transaction 
 
   
  
