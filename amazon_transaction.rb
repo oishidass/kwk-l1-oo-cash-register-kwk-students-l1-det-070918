@@ -6,9 +6,9 @@ sleep (1)
 
 puts "so what would you like to buy and how much does it cost?"
 item = gets.chomp 
-price = gets.chomp
+cost = gets.chomp
   items << item
-  price << price
+  price << cost
   puts items
   puts price
 
